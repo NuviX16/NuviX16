@@ -1,0 +1,28 @@
+name: Actualizar tarjetas del perfil
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # todos los días (08:00 UTC)
+  workflow_dispatch:       # botón para ejecutarlo a mano desde la pestaña Actions
+  push:
+    paths: ["scripts/tarjetas.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  tarjetas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar tarjetas
+        run: python3 scripts/tarjetas.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add tarjetas
+          git diff --cached --quiet || git commit -m "Actualizar tarjetas del perfil"
+          git push

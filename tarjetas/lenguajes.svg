@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="225" viewBox="0 0 330 225">
+  <style>
+    .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #e0a57a; }
+    .e { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #bcae9e; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #efe4d4; }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="329" height="224" fill="#100e0c" stroke="#2a241f"/>
+  <text x="25" y="35" class="t">Lenguajes más usados</text>
+  <text x="25" y="70" class="e">HTML</text>
+  <rect x="125" y="61" width="120" height="8" rx="4" fill="#1e1a16"/>
+  <rect x="125" y="61" width="43.3" height="8" rx="4" fill="#e0a57a"/>
+  <text x="305" y="70" class="v" text-anchor="end">36.1%</text>
+  <text x="25" y="95" class="e">JavaScript</text>
+  <rect x="125" y="86" width="120" height="8" rx="4" fill="#1e1a16"/>
+  <rect x="125" y="86" width="40.9" height="8" rx="4" fill="#c7b0d6"/>
+  <text x="305" y="95" class="v" text-anchor="end">34.1%</text>
+  <text x="25" y="120" class="e">CSS</text>
+  <rect x="125" y="111" width="120" height="8" rx="4" fill="#1e1a16"/>
+  <rect x="125" y="111" width="35.8" height="8" rx="4" fill="#7fc4b0"/>
+  <text x="305" y="120" class="v" text-anchor="end">29.8%</text>
+
+</svg>

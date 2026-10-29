@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="225" viewBox="0 0 330 225">
+  <style>
+    .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #e0a57a; }
+    .e { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #bcae9e; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #efe4d4; }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" width="329" height="224" fill="#100e0c" stroke="#2a241f"/>
+  <text x="25" y="35" class="t">Estadísticas de NuviX16</text>
+  <text x="25" y="70" fill="#c7b0d6" style="font: 14px sans-serif">★</text>
+  <text x="50" y="70" class="e">Estrellas totales:</text>
+  <text x="300" y="70" class="v" text-anchor="end">1</text>
+  <text x="25" y="95" fill="#c7b0d6" style="font: 14px sans-serif">✎</text>
+  <text x="50" y="95" class="e">Commits (este año):</text>
+  <text x="300" y="95" class="v" text-anchor="end">4</text>
+  <text x="25" y="120" fill="#c7b0d6" style="font: 14px sans-serif">⇄</text>
+  <text x="50" y="120" class="e">Pull requests:</text>
+  <text x="300" y="120" class="v" text-anchor="end">0</text>
+  <text x="25" y="145" fill="#c7b0d6" style="font: 14px sans-serif">!</text>
+  <text x="50" y="145" class="e">Issues:</text>
+  <text x="300" y="145" class="v" text-anchor="end">0</text>
+  <text x="25" y="170" fill="#c7b0d6" style="font: 14px sans-serif">▣</text>
+  <text x="50" y="170" class="e">Repositorios:</text>
+  <text x="300" y="170" class="v" text-anchor="end">2</text>
+  <text x="25" y="195" fill="#c7b0d6" style="font: 14px sans-serif">♥</text>
+  <text x="50" y="195" class="e">Seguidores:</text>
+  <text x="300" y="195" class="v" text-anchor="end">0</text>
+
+</svg>
