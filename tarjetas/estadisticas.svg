@@ -11,7 +11,7 @@
   <text x="300" y="70" class="v" text-anchor="end">1</text>
   <text x="25" y="95" fill="#c7b0d6" style="font: 14px sans-serif">✎</text>
   <text x="50" y="95" class="e">Commits (este año):</text>
-  <text x="300" y="95" class="v" text-anchor="end">8</text>
+  <text x="300" y="95" class="v" text-anchor="end">21</text>
   <text x="25" y="120" fill="#c7b0d6" style="font: 14px sans-serif">⇄</text>
   <text x="50" y="120" class="e">Pull requests:</text>
   <text x="300" y="120" class="v" text-anchor="end">5</text>
@@ -20,7 +20,7 @@
   <text x="300" y="145" class="v" text-anchor="end">0</text>
   <text x="25" y="170" fill="#c7b0d6" style="font: 14px sans-serif">▣</text>
   <text x="50" y="170" class="e">Repositorios:</text>
-  <text x="300" y="170" class="v" text-anchor="end">4</text>
+  <text x="300" y="170" class="v" text-anchor="end">3</text>
   <text x="25" y="195" fill="#c7b0d6" style="font: 14px sans-serif">♥</text>
   <text x="50" y="195" class="e">Seguidores:</text>
   <text x="300" y="195" class="v" text-anchor="end">0</text>
