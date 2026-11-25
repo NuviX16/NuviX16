@@ -6,21 +6,21 @@
   </style>
   <rect x="0.5" y="0.5" rx="10" width="329" height="224" fill="#100e0c" stroke="#2a241f"/>
   <text x="25" y="35" class="t">Lenguajes más usados</text>
-  <text x="25" y="70" class="e">HTML</text>
+  <text x="25" y="70" class="e">CSS</text>
   <rect x="125" y="61" width="120" height="8" rx="4" fill="#1e1a16"/>
-  <rect x="125" y="61" width="41.8" height="8" rx="4" fill="#e0a57a"/>
-  <text x="305" y="70" class="v" text-anchor="end">34.8%</text>
-  <text x="25" y="95" class="e">CSS</text>
+  <rect x="125" y="61" width="43.1" height="8" rx="4" fill="#e0a57a"/>
+  <text x="305" y="70" class="v" text-anchor="end">35.9%</text>
+  <text x="25" y="95" class="e">HTML</text>
   <rect x="125" y="86" width="120" height="8" rx="4" fill="#1e1a16"/>
-  <rect x="125" y="86" width="37.5" height="8" rx="4" fill="#c7b0d6"/>
-  <text x="305" y="95" class="v" text-anchor="end">31.2%</text>
+  <rect x="125" y="86" width="39.6" height="8" rx="4" fill="#c7b0d6"/>
+  <text x="305" y="95" class="v" text-anchor="end">33.0%</text>
   <text x="25" y="120" class="e">JavaScript</text>
   <rect x="125" y="111" width="120" height="8" rx="4" fill="#1e1a16"/>
-  <rect x="125" y="111" width="33.0" height="8" rx="4" fill="#7fc4b0"/>
-  <text x="305" y="120" class="v" text-anchor="end">27.5%</text>
+  <rect x="125" y="111" width="32.5" height="8" rx="4" fill="#7fc4b0"/>
+  <text x="305" y="120" class="v" text-anchor="end">27.1%</text>
   <text x="25" y="145" class="e">Python</text>
   <rect x="125" y="136" width="120" height="8" rx="4" fill="#1e1a16"/>
   <rect x="125" y="136" width="8.0" height="8" rx="4" fill="#f0b48a"/>
-  <text x="305" y="145" class="v" text-anchor="end">6.4%</text>
+  <text x="305" y="145" class="v" text-anchor="end">4.0%</text>
 
 </svg>
